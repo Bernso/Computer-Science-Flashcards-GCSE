@@ -14,7 +14,7 @@ If you do not have python installed you should download the .exe file as it alre
 ## If you already have python installed
 You should be able to install the file and run it, if this is NOT WORKING follow these instructions:
 - Open command prompt
-- Set the directory to where you installed the file, e.g.
+- Set the directory to where you installed the file. Example:
 ```text
 cd Desktop
 ```
