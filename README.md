@@ -1,5 +1,5 @@
 # Revision-Cards
-Computer science GCSE revision cards with a UI, not in the terminal
+Computer science GCSE revision cards with a GUI, not in the terminal.
 
 # Featues
 - Records logs
