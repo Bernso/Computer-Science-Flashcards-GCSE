@@ -8,10 +8,10 @@ Computer science GCSE revision cards with a UI, not in the terminal
 - Installs .ico file from my 'Icons' repo
 - 37 Different flashcards
 
-# If you don't have python installed
+## If you don't have python installed
 If you do not have python installed you should download the .exe file as it already has all the needed components installed
 
-# If you already have python installed
+## If you already have python installed
 You should be able to install the file and run it, if this is not working follow these instructions:
 - Open command prompt
 - Set the directory to where you installed the file, e.g. ```cd Desktop```
