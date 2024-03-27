@@ -23,3 +23,8 @@ cd Desktop
 python FlashCards-UI.py
 ```
 - Now the gui should appear and there should be no problems
+
+## When using the .exe file
+If you use the .exe file and use the cross in the top corner to close the application it will not save the logs. To fix this please:
+- Press on the exit button (it will come up with errors)
+- Now you can close the app via pressing the red cross in the top corner (how you would normally close an application)
